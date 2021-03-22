@@ -1,0 +1,122 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "User is on the Techfios automation homework page",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 8,
+        "name": "1  User should be able to Set SkyBlue Background",
+        "description": "",
+        "id": "change-of-color-in-the-given-homework;1--user-should-be-able-to-set-skyblue-background",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "User click on the button SkyBlue Button",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "User should see the background color into sky Blue Backgound",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 7,
+            "name": "@Senario1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "User is on the Techfios automation homework page",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "2  User should be able to Set SkyWhite Background",
+        "description": "",
+        "id": "change-of-color-in-the-given-homework;2--user-should-be-able-to-set-skywhite-background",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 14,
+            "name": "User click on the button SkyWhile Button",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 15,
+            "name": "User should see the background color into sky white Background",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 12,
+            "name": "@Senario2"
+          }
+        ]
+      }
+    ],
+    "name": "Change of Color in the given homework",
+    "description": "",
+    "id": "change-of-color-in-the-given-homework",
+    "keyword": "Feature",
+    "uri": "features/mainPageStepDefination.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@SkyColor"
+      }
+    ]
+  }
+]
